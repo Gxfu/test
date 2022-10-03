@@ -82,3 +82,5 @@ if (mqtt.connected() == false) {
     delay(2000);
 }
 }
+
+// Comment by AON
